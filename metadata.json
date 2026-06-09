@@ -1,0 +1,6 @@
+{
+  "name": "Aaradhana Realty",
+  "description": "Premium luxury real estate Builders & Construction Company in Raipur, Chhattisgarh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
